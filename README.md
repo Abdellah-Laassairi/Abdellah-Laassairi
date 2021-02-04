@@ -1,4 +1,4 @@
-### Hi there, I'm Laassairi Abdellah - Engineering student at AIAC 👋
+### Hi there, I'm Laassairi Abdellah 👋
 
 [![Website](https://img.shields.io/website?label=laassairiAbdellah.com&style=for-the-badge&url=https%3A%2F%2Flaassairiabdellah.com)](http://laassairiabdellah.com/)
 
