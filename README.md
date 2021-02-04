@@ -1,14 +1,14 @@
-### Hi there, I'm LAassairi Abdellah - aka [codeSTACKr][website] 👋
+### Hi there, I'm Laassairi Abdellah - Engineering student at [AIAC][aiac] 👋
 
 [![Website](https://img.shields.io/website?label=laassairiAbdellah.com&style=for-the-badge&url=https%3A%2F%2Flaassairiabdellah.com)](http://laassairiabdellah.com/)
 
 ## I'm a Computer Science Engineering Student, Space Exploration Enthusiast, Developer, and Math Lover!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to write poetry and play the violin 
 
 
 ### Connect with me:
@@ -92,6 +92,7 @@
 
 </details>
 
+[aiac]: https://aiac.ma/
 [website]: http://laassairiabdellah.com/
 [course]: http://vsCodeHero.com
 [youtube]: https://youtube.com/codeSTACKr
