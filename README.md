@@ -5,8 +5,9 @@
 
 
 <!-- Activity Graph -->    
-[![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abdellah-Laassairi&theme=github-compact)](https://github.com/Abdellah-Laassairi/github-readme-activity-graph)
-
+ <!--
+ [![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abdellah-Laassairi&theme=github-compact)](https://github.com/Abdellah-Laassairi/github-readme-activity-graph)
+ -->   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdellah-laassairi&label=Profile%20views&color=0e75b6&style=flat" alt="abdellah-laassairi" /> </p>
 
 
