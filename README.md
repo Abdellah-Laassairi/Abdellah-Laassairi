@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=3178C6&width=800&lines=Data+Scientist+%7C+ML+Engineer;Python+%7C+PyTorch+%7C+TensorFlow;Building+the+Future+with+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=800&color=3178C6&width=800&lines=Data+Scientist+%7C+ML+Engineer;Python+%7C+PyTorch+%7C+TensorFlow;Building+the+Future+with+AI)](https://git.io/typing-svg)
 
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />](http://laassairiabdellah.com)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:Laassairi.abdellah@gmail.com)
