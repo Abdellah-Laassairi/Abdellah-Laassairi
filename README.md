@@ -1,48 +1,93 @@
 # Abdellah Laassairi
 
-<!-- Added Typing ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1200&pause=1000&color=F70000&width=800&lines=Data+Scientist+%7C+AI+Engineer;Computer+Science+%26+Applied+Mathematics+Graduate;Open+Source+Enthusiast)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=3178C6&width=800&lines=Data+Scientist+%7C+ML+Engineer;Python+%7C+PyTorch+%7C+TensorFlow;Building+the+Future+with+AI)](https://git.io/typing-svg)
+
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />](http://laassairiabdellah.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:Laassairi.abdellah@gmail.com)
+[<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/abdellahlaassairi)
+[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/laassairi_abdel)
+
+</div>
 
 ## 👨‍💻 About Me
 
-I'm a Data Scientist based in France, with a strong foundation in Computer Science and Applied Mathematics. Leveraging my expertise in AI/ML, I work on developing innovative data-driven solutions. As a former Open Cosmos Academy Ambassador, I continue to bridge the gap between space technology and data science applications.
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Abdellah Laassairi"
+        self.role = "Data Scientist | ML Engineer"
+        self.location = "🇫🇷 France"
+        self.background = ["Computer Science", "Applied Mathematics"]
+        self.interests = ["Deep Learning", "MLOps", "Space Technology"]
 
-- 🔭 Currently working as a Data Scientist in France
-- 🌱 Specializing in Machine Learning and Data Analytics
-- 🚀 Former Open Cosmos Academy Ambassador
-- 🎻 Fun fact: I write poetry and play the violin in my free time
+    def say_hi(self):
+        print("Thanks for visiting my GitHub! Let's build something amazing together.")
 
-## 🛠️ Technologies & Tools
+me = DataScientist()
+me.say_hi()
+```
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+## 🔧 Technologies & Tools
 
-### AI/ML
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+<div align="center">
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+### Core Stack
 
-## 📊 GitHub Stats
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdellah-Laassairi&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdellah-Laassairi&theme=github-dark" alt="GitHub Streak" />
-</p>
+### AI/ML Framework
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdellah-Laassairi&theme=onedark&rank=-?)](https://github.com/Abdellah-Laassairi/github-profile-trophy)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-## 📫 Connect With Me
+### Data Infrastructure
 
-- 🌐 Portfolio: [laassairiabdellah.com](http://laassairiabdellah.com/)
-- 📧 Email: [Laassairi.abdellah@gmail.com](mailto:Laassairi.abdellah@gmail.com)
-- 💻 Dev.to: [@abdellahlaassairi](https://dev.to/abdellahlaassairi)
-- 👨‍💻 HackerRank: [@laassairi_abdel](https://www.hackerrank.com/laassairi_abdel)
-- 🌟 HackerEarth: [@laassairi_abdel](https://www.hackerearth.com/@laassairi_abdel)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdellah-laassairi&label=Profile%20views&color=0e75b6&style=flat)
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdellah-Laassairi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdellah-Laassairi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdellah-Laassairi&theme=tokyonight&hide_border=true" />
+</div>
+
+## 🏆 GitHub Profile Trophy
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abdellah-Laassairi&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 🚀 Current Focus
+
+- 🔭 Working on advanced ML models and MLOps pipelines
+- 🌱 Exploring Large Language Models and their applications
+- 🎯 Building scalable data infrastructure
+- 🎻 Writing poetry and playing violin in free time
+
+---
+
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=abdellah-laassairi&color=blueviolet&style=for-the-badge)
+
+_"The best way to predict the future is to create it."_
+
+</div>
