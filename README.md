@@ -20,7 +20,7 @@ class DataScientist:
         self.role = "Data Scientist | ML Engineer"
         self.location = "🇫🇷 France"
         self.background = ["Computer Science", "Applied Mathematics"]
-        self.interests = ["Deep Learning", "MLOps", "Space Technology"]
+        self.interests = ["Deep Learning", "MLOps", "Cooking", "Reading"]
 
     def say_hi(self):
         print("Thanks for visiting my GitHub! Let's build something amazing together.")
@@ -80,7 +80,6 @@ me.say_hi()
 - 🔭 Working on advanced ML models and MLOps pipelines
 - 🌱 Exploring Large Language Models and their applications
 - 🎯 Building scalable data infrastructure
-- 🎻 Writing poetry and playing violin in free time
 
 ---
 
